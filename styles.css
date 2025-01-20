@@ -1,3 +1,5 @@
+@import url();
+
 *{
     margin: 0;
     padding: 0;
@@ -26,8 +28,8 @@ header ul li a{
 }
 
 header img{
-    height: 20px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
 }
 
 header .profile{
